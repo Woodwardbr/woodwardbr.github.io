@@ -24,21 +24,15 @@
     width: 340px;
   }
 }.u-section-3 .u-sheet-1 {
-  min-height: 63px;
+  min-height: 106px;
 }
 
 .u-section-3 .u-text-1 {
-  margin: 0 auto 20px;
+  margin: 10px auto 18px;
 }
 
 @media (max-width: 1199px) {
   .u-section-3 .u-text-1 {
     height: 39px;
-  }
-}
-
-@media (max-width: 767px) {
-  .u-section-3 .u-text-1 {
-    margin-top: 60px;
   }
 }
