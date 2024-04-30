@@ -120,11 +120,22 @@
   }
 
   .u-section-1 .u-layout-cell-1 {
-    min-height: 239px;
+    min-height: 340px;
+  }
+
+  .u-section-1 .u-rotation-parent-1 {
+    width: 309px;
+    height: 300px;
+    margin-right: auto;
+  }
+
+  .u-section-1 .u-text-1 {
+    width: auto;
+    margin-left: 0;
   }
 
   .u-section-1 .u-text-2 {
-    width: 330px;
+    width: auto;
   }
 }.u-block-aea9-2 {
   position: absolute;
@@ -138,7 +149,20 @@
 
 .u-block-aea9-4 {
   position: absolute;
+  width: 40px;
+  height: 40px;
+  left: auto;
   right: 0;
+  padding: 0;
+}
+
+@media (max-width: 575px) {
+  .u-block-aea9-3 {
+    width: 40px;
+    height: 40px;
+    top: 234px;
+    padding: 0;
+  }
 }
 
 .u-section-2-1 .u-sheet-1 {
