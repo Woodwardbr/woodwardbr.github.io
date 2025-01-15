@@ -1756,7 +1756,6 @@
   .u-section-10 .u-table-2 {
     width: 302px;
     margin-top: 12px;
-    height: auto;
   }
 
   .u-section-10 .u-table-3 {
@@ -1775,7 +1774,6 @@
     margin-right: initial;
     margin-left: initial;
     width: auto;
-    height: auto;
   }
 
   .u-section-10 .u-text-11 {
@@ -2422,22 +2420,5 @@
   .u-section-15 .u-image-7 {
     margin-top: -316px;
     margin-right: 23px;
-  }
-}.u-section-16 .u-sheet-1 {
-  min-height: 121px;
-}
-
-.u-section-16 .u-text-1 {
-  margin: 47px auto 0;
-}
-
-@media (max-width: 575px) {
-  .u-section-16 .u-sheet-1 {
-    min-height: 87px;
-  }
-
-  .u-section-16 .u-text-1 {
-    width: auto;
-    margin: 1px 0;
   }
 }
